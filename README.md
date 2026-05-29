@@ -25,13 +25,13 @@ cargo run --release
 
 ## Controls
 
-| Key | Action |
-|-----|--------|
-| `c` | Change color randomly |
-| `+` / `=` | Add a blob (max 100) |
-| `-` / `_` | Remove a blob (min 1) |
-| `r` | Reset blobs |
-| `q` / `Esc` / `Ctrl+C` | Quit |
+| Key                    | Action                |
+|------------------------|-----------------------|
+| `c`                    | Change color randomly |
+| `+` / `=`              | Add a blob (max 100)  |
+| `-` / `_`              | Remove a blob (min 1) |
+| `r`                    | Reset blobs           |
+| `q` / `Esc` / `Ctrl+C` | Quit                  |
 
 Colors also auto-change every 60 seconds.
 
