@@ -1,4 +1,4 @@
-# ascilava
+# asciilava
 
 A mesmerizing lava lamp ASCII art animation for your terminal, written in Rust.
 
